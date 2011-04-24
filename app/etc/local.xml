@@ -40,10 +40,10 @@
             </db>
             <default_setup>
                 <connection>
-                    <host><![CDATA[127.0.0.1]]></host>
-                    <username><![CDATA[root]]></username>
-                    <password><![CDATA[]]></password>
-                    <dbname><![CDATA[jensenrugboards]]></dbname>
+                    <host><![CDATA[/tmp/mysql/mi.sock]]></host>
+                    <username><![CDATA[herma]]></username>
+                    <password><![CDATA[ngZP6vJI]]></password>
+                    <dbname><![CDATA[mi]]></dbname>
                     <active>1</active>
                 </connection>
             </default_setup>
