@@ -40,7 +40,7 @@
             </db>
             <default_setup>
                 <connection>
-                    <host><![CDATA[localhost;unix_socket=/tmp/mysql/mi.sock]]></host>
+                    <host><![CDATA[/tmp/mysql/mi.sock]]></host>
                     <username><![CDATA[herma]]></username>
                     <password><![CDATA[ngZP6vJI]]></password>
                     <dbname><![CDATA[mi]]></dbname>

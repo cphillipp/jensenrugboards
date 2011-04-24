@@ -1,6 +1,24 @@
-general:
-    writable_directories: [/media]
-    
-php:
-    extensions: [mysqli, pdo_mysql, simplexml, mcrypt, hash, gd, dom, inconv, curl, soap, mbstring]
-    display_errors: off
+network_writable_dirs:
+   - /media
+
+local_writable_dirs:
+   - /var
+   
+php_version: 5.2.17
+
+php_extensions:
+   - mysql
+   - mysqli
+   - pdo_mysql
+   - simplexml
+   - mcrypt
+   - hash
+   - gd
+   - dom
+   - iconv
+   - curl
+   - soap
+   
+php_post_max_size: 30M
+
+php_upload_max_filesize: 30M
