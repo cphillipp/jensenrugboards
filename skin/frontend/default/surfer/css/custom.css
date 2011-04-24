@@ -27,6 +27,7 @@ a.logo		 						{float:left; margin:0; padding:0; width:270px; height:77px; displ
 #rightControl 						{top:0; right:0; background:transparent url(../images/control_right.jpg) no-repeat 0 0;}
 
 /* OTHER */
+.block-currency 						{display:none;}
 button.button span 					{background:#EB5858; border:1px solid #666666;}
 .block .block-title strong 			{color:#EB5858; text-transform:none;}
 .fieldset .legend 					{background:none repeat scroll 0 0 #FFFFFF; border:1px solid #EB5858; color:#EB5858;}
