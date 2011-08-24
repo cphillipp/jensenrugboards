@@ -19,6 +19,6 @@ php_extensions:
    - curl
    - soap
    
-php_post_max_size: 30M
+php_post_max_size: 300M
 
-php_upload_max_filesize: 30M
+php_upload_max_filesize: 300M
