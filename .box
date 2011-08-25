@@ -1,8 +1,6 @@
-network_writable_dirs:
-   - /media
-
-local_writable_dirs:
-   - /var
+shared_writable_dirs:
+    - media
+    - var
    
 php_version: 5.2.17
 
