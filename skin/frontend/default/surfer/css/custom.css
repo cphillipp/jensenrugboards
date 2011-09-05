@@ -10,8 +10,8 @@ a:hover								{color: #eb5858;}
 /* HEADER */
 .header-container 					{padding:0 0 20px; background:url("../images/top-bg.png") repeat scroll 0 0 transparent; border-bottom:none; border-top: 5px solid #0D2131; width:100%;}
 .header .form-search 				{background: url("../images/bkg_form-search.png") no-repeat scroll 0 0 transparent;}
-h1.logo 								{float:left; margin:0; padding:0; width:270px; height:77px; display:block;}
-a.logo		 						{float:left; margin:0; padding:0; width:270px; height:77px; display:block; text-decoration:none !important; background:url('../images/sprite.png')no-repeat 0 0;}
+h1.logo 								{float:left; margin:0; padding:0; width:274px; height:78px; display:block;}
+a.logo		 						{float:left; margin:0; padding:0; width:274px; height:78px; display:block; text-decoration:none !important; background:url('../images/sprite.png')no-repeat 0 0;}
 .header .links li 						{background:none;}
 .header .links a 						{color:#A7C6DD; text-decoration:none; font-family:monospace, "Courier New", arial; font-size:12px;}
 .header .links a:hover				{color:#eb5858;}
