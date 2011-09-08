@@ -41,6 +41,7 @@ button.button span 					{background:#EB5858; border:1px solid #666666;}
 .product-collateral h2 				{color: #EB5858; border-bottom:1px solid #0D2131;}
 .product-collateral 					{color:#fff; background: url("../images/top-bg.png") repeat scroll 0 0;}
 .regular-price .price 				{color:#666666;}
+.block-account .block-title			{background:none;}
 
 /* FOOTER */
 .footer-container 					{border-top:none;}
