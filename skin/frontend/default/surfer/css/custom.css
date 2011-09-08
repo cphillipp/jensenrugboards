@@ -15,6 +15,7 @@ a.logo		 						{float:left; margin:0; padding:0; width:274px; height:78px; displ
 .header .links li 						{background:none;}
 .header .links a 						{color:#A7C6DD; text-decoration:none; font-family:monospace, "Courier New", arial; font-size:12px;}
 .header .links a:hover				{color:#eb5858;}
+.header .custom-order				{color:#A7C6DD; line-height:1.3em; font-weight:bold; text-decoration:none; font-size:13px; position:absolute; bottom:0px; right:0px;}
 .nav-container 						{border-top:1px solid; background:url("../images/top-bg.png") repeat scroll 0 0 transparent;}
 
 /* SLIDEWHOW */
