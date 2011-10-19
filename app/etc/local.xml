@@ -40,9 +40,9 @@
             </db>
             <default_setup>
                 <connection>
-                    <host><![CDATA[/tmp/mysql/mi.sock]]></host>
-                    <username><![CDATA[herma]]></username>
-                    <password><![CDATA[ngZP6vJI]]></password>
+                    <host><![CDATA[tunnel.pagodabox.com:3306]]></host>
+                    <username><![CDATA[nikita]]></username>
+                    <password><![CDATA[4j3KV6DT]]></password>
                     <dbname><![CDATA[mi]]></dbname>
                     <active>1</active>
                 </connection>
