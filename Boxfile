@@ -1,0 +1,18 @@
+web1: #component type & number
+  name: magento  #component settings
+  shared_writable_dirs:
+    - media
+    - var
+  php_extensions:
+    - pdo_mysql
+    - simplexml
+    - mcrypt
+    - hash
+    - gd
+    - dom
+    - inconv
+    - curl
+    - soap
+ 
+db1: #component type & number 
+  name: magento #component settings
