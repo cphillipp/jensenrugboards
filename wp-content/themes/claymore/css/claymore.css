@@ -1,0 +1,46 @@
+/* GENERAL */
+body 																	{background:transparent url('../images/bg.jpg') repeat !important;}
+#wrap 																	{background:url('../images/top-bg.png') repeat; min-width:960px;}
+a, #logo h1 a, .entry-title a 											{color:#b92d2d;}
+
+/* HEADER */	
+.container.top-back														{width:960px; padding:0 10px; background:transparent;}
+#header.mid-back														{padding:0 0 30px; background:transparent;}
+.small_cart_list a:hover 												{color:#a7c6dd;}
+.nav-wrap 																{background:transparent; border-bottom:5px solid #b92d2d; border-top:1px solid #555;}
+#navigation ul li a 													{color:#3c8a85; height:30px; line-height:30px;}
+#navigation ul li.active a 												{color:#a7c6dd;}
+#navigation ul li:hover a 												{color:#a7c6dd;}
+.naviline 																{position: absolute; top: 6px; border-left: 1px solid #555;}										
+#navigation ul.sub-menu 												{background-color:#454545;}
+#navigation ul li ul li:hover  											{background-color:#666;}
+#navigation ul.sub-menu a:hover 										{color: #a7c6dd !important;}
+
+/* CONTENT */										
+.tp-caption.small_text 													{height:36px; padding:5px 20px 0 20px !important; top:88% !important; background:#000; background:rgba(0, 0, 0, 0.5); font-family:'Abel', arial, sans; width:100%; font-size:1.3em !important; line-height:36px !important; color:#fff; border-top:1px solid #000; text-shadow:none;}
+#lambda-featured-header-wrap 											{background:#FFF; border:none;}
+.home .entry-title 														{display:none;}
+#content-wrap 															{min-height:0;}
+#content .navigation 													{clear:both;}
+#content .navigation a 													{font-size:20px; text-decoration:underline;}
+
+/* FORM */
+textarea, input[type="date"], input[type="datetime"], 
+input[type="datetime-local"], input[type="email"], 
+input[type="month"], input[type="number"], input[type="password"], 
+input[type="search"], input[type="tel"], input[type="text"], 
+input[type="input"], input[type="time"], input[type="url"], 
+input[type="week"] 														{border:1px solid #999999; background-color:#d9d9d9; height:35px;}
+.gform_wrapper input[type=text], .gform_wrapper input[type=url], 
+.gform_wrapper input[type=email], .gform_wrapper input[type=tel], 
+.gform_wrapper input[type=number], .gform_wrapper input[type=password] 	{font-size:13px;}
+a.button, a.woo-button, button.button, input.button, 
+#respond input#submit, #content input.button 							{-moz-box-shadow: inset 0px 1px 0px 0px #0d2131; -webkit-box-shadow: inset 0px 1px 0px 0px #0d2131; box-shadow: inset 0px 1px 0px 0px #0d2131; background: -webkit-gradient( linear, left top, left bottom, color-stop(0.05, #0d2131), color-stop(1, #3c8a85) ); background: -moz-linear-gradient( center top, #0d2131 5%, #3c8a85 100% ); filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#0d2131', endColorstr='#3c8a85'); background-color: #0d2131; -moz-border-radius: 6px; -webkit-border-radius: 6px; border-radius: 6px; border: 1px solid #3c8a85; display: inline-block; color: #FFFFFF !important; font-family: arial; font-size: 16px; font-weight: normal; text-decoration: none; text-shadow: 1px 1px 0px #0d2131;}
+a.button:hover, a.woo-button:hover, button.button:hover, 
+input.button:hover, #respond input#submit:hover, 
+#content input.button:hover 											{background: -webkit-gradient( linear, left top, left bottom, color-stop(0.05, #3c8a85), color-stop(1, #0d2131) ); background: -moz-linear-gradient( center top, #3c8a85 5%, #0d2131 100% ); filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#3c8a85', endColorstr='#0d2131'); background-color: #3c8a85;}
+#sidebar a:hover, #sidebar_second a:hover 								{color:#FFF !important;}
+
+/* FOOTER */
+ul.product_list_widget .quantity, ul.product_list_widget .amount, 
+ul.product_list_widget .from 											{color:#FFF;}
